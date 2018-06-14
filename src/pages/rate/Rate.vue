@@ -1,13 +1,13 @@
 <template>
-    <div>header</div>
+    <div>评价页</div>
 </template>
 
 <script>
 export default {
-  name: 'HomeHeader'
+  name: 'Rate'
 }
 </script>
 
-<style lang="stylus" scoped>
+<style scoped>
 
 </style>

@@ -1,13 +1,10 @@
 <template>
-  <div>首页</div>
+    <div>商家页</div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
-  components: {
-
-  }
+  name: 'Seller'
 }
 </script>
 
