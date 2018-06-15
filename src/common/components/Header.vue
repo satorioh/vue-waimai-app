@@ -34,7 +34,6 @@ export default {
       overflow : hidden
       padding: 48px 24px 36px 48px
       background : rgba(7,17,27,.5)
-      blur: 10px
       .header-main-img
         float : left
         width : 128px
@@ -44,4 +43,18 @@ export default {
         float : left
         color: #fff
         margin-left : 32px
+        .info-title
+          font-size : 32px
+          font-weight : bold
+          line-height : 36px
+        .info-delivery
+          font-size : 24px
+          font-weight : 200
+          line-height : 24px
+          margin-top : 16px
+          margin-bottom : 20px
+        .info-supports
+          font-size : 24px
+          font-weight : 200
+          line-height : 24px
 </style>
